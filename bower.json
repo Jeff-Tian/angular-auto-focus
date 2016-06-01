@@ -1,0 +1,22 @@
+{
+  "name": "angular-regex",
+  "homepage": "https://github.com/Jeff-Tian/angular-regex",
+  "authors": [
+    "Jeff Tian <jeff.tian@outlook.com>"
+  ],
+  "description": "common regular expressions.",
+  "main": "",
+  "keywords": [
+    "angular",
+    "regex",
+    "regular expression"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
