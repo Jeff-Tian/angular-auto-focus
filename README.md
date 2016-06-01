@@ -1,6 +1,6 @@
-angular-regex
+angular-auto-focus
 =======
-Common regular expressions
+Auto focus on form input
 
 Notice:
 ===========================================================
