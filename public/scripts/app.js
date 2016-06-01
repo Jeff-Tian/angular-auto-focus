@@ -1,5 +1,5 @@
 angular.module('angular-auto-focus', [])
-    .directive('auto-focus', ['$timeout', function ($timeout) {
+    .directive('focus', ['$timeout', function ($timeout) {
         return {
             scope: {
                 trigger: '@focus'
