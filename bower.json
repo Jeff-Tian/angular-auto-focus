@@ -1,15 +1,14 @@
 {
-  "name": "angular-regex",
-  "homepage": "https://github.com/Jeff-Tian/angular-regex",
+  "name": "angular-auto-focus",
+  "homepage": "https://github.com/Jeff-Tian/angular-auto-focus.git",
   "authors": [
     "Jeff Tian <jeff.tian@outlook.com>"
   ],
-  "description": "common regular expressions.",
+  "description": "Auto focus on form input",
   "main": "",
   "keywords": [
     "angular",
-    "regex",
-    "regular expression"
+    "auto focus"
   ],
   "license": "MIT",
   "ignore": [
